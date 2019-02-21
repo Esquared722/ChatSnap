@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat Snap</string>
+    <string name="Username" />
+    <string name="LoginButton">Login/SignUp</string>
+</resources>

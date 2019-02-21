@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "551082400076",
+    "firebase_url": "https://chatsnap-4f137.firebaseio.com",
+    "project_id": "chatsnap-4f137",
+    "storage_bucket": "chatsnap-4f137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551082400076:android:d8b300dd7b7ca54e",
+        "android_client_info": {
+          "package_name": "com.example.jonny.chatsnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551082400076-0e2qdiekgv3dccmggb0hssi4s1k8sodd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jonny.chatsnap",
+            "certificate_hash": "c7d3091339e6671eb6a2d4920dae11e1f78b9087"
+          }
+        },
+        {
+          "client_id": "551082400076-mpioin5ngfml8e0gtd213qnkpev30uth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIiva9czjApRsyzom9K8r3wlSUIhV_Ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551082400076-mpioin5ngfml8e0gtd213qnkpev30uth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551082400076:android:7ee3ddfc6ea8590b",
+        "android_client_info": {
+          "package_name": "com.sigandroid.eric.chatsnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551082400076-hcbkkpcqv9qc9bjhpmodjef24talm19g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sigandroid.eric.chatsnap",
+            "certificate_hash": "809fb3e972cf125d8dd55a7969cc13df58705546"
+          }
+        },
+        {
+          "client_id": "551082400076-mpioin5ngfml8e0gtd213qnkpev30uth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIiva9czjApRsyzom9K8r3wlSUIhV_Ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551082400076-mpioin5ngfml8e0gtd213qnkpev30uth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551082400076:android:8c5c8ebd9b70af7a",
+        "android_client_info": {
+          "package_name": "com.vineetsridhar.chatsnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551082400076-ocg4d4q4joolo353ach05gmspa5scp4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vineetsridhar.chatsnap",
+            "certificate_hash": "c9509cc6a470d854c254f3c3d51948a314d13fb6"
+          }
+        },
+        {
+          "client_id": "551082400076-mpioin5ngfml8e0gtd213qnkpev30uth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIiva9czjApRsyzom9K8r3wlSUIhV_Ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551082400076-mpioin5ngfml8e0gtd213qnkpev30uth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
